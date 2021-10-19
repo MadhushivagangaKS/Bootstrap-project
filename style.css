@@ -94,7 +94,7 @@ ul {
     z-index: -1;
     width: 100%;
     height: 100%;
-    background-image: url(Photo_2.png);
+    background-image: url(Photo_3.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -105,7 +105,7 @@ ul {
     right: 0;
     top: 0;
     bottom: 0;
-    background:linear-gradient(-30deg, rgba(42,84,250,0.5)0% ,rgba(42,84,250,0.5)25%, transparent 30%, transparent 100%)
+    background:linear-gradient(-30deg, rgba(42,84,250,0.5)0% ,rgba(42,84,250,0.5)26%, transparent 30%, transparent 100%)
 }
 .header .content {
     position: absolute;
@@ -138,13 +138,13 @@ ul {
 .header .content .social-icon li a {
     display: block;
     font-size: 15px;
-    color: #fff;
+    color: rgb(52, 190, 121);
     height: 35px;
     width: 35px;
     line-height: 32px;
     text-align: center;
     border-radius: 100%;
-    border: 2px solid #555;
+    border: 2px solid #440303;
 }
 .header .content .social-icon li a:hover {
     border-color: #fff;
